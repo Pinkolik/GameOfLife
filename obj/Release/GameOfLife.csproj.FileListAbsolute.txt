@@ -1,0 +1,11 @@
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojAssemblyReference.cache
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.Form1.resources
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.SettingsForm.resources
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.cache
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\mrpin\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
